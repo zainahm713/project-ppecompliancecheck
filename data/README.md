@@ -4,9 +4,13 @@
 This dataset is used to train and evaluate the PPE Compliance Checker model 
 using YOLO11 for detecting personal protective equipment (PPE) on workers.
 
-## Source
-PPE Detection Dataset (Kaggle)
+## Sources
+**Kaggle — PPE Detection Dataset**
 https://www.kaggle.com/datasets/mustafatayyipbayram/ppe-detection
+
+**Roboflow Universe — PPE Detection**
+https://universe.roboflow.com/training-rs3kg/ppe-detection-rrq9i
+136 images, classes include helmet, vest, goggles, person, boots, and gloves.
 
 ## Classes
 - Hardhat
@@ -14,7 +18,7 @@ https://www.kaggle.com/datasets/mustafatayyipbayram/ppe-detection
 - Vest
 
 ## Format
-YOLO format (.txt label files with class ID + bounding box coordinates).
+YOLO11 format (.txt label files with class ID + bounding box coordinates).
 
-Note: This dataset is not included in this repo due to size. Download it 
-directly from the Kaggle link above.
+Note: These datasets are not included in this repo due to size. Download 
+them directly from the links above.
