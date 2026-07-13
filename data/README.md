@@ -2,11 +2,16 @@
 
 ## Overview
 This dataset is used to train and evaluate the PPE Compliance Checker model 
-for detecting personal protective equipment (PPE) on workers.
+using YOLO11 for detecting personal protective equipment (PPE) on workers.
 
 ## Source
-PPE Detection Dataset (Kaggle) — hard hat and head detection data
+PPE Detection Dataset (Kaggle)
 https://www.kaggle.com/datasets/mustafatayyipbayram/ppe-detection
+
+## Classes
+- Hardhat
+- Goggles
+- Vest
 
 ## Format
 YOLO format (.txt label files with class ID + bounding box coordinates).

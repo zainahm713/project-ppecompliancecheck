@@ -10,8 +10,9 @@
 ## Overview
 A computer vision system that uses YOLO11 object detection to automatically 
 identify whether workers in images are wearing required personal protective 
-equipment (PPE), such as helmets, vests, and gloves.
+equipment (PPE): hardhat, goggles, and vest.
 
-## Status
-🚧 In progress — dataset loading and exploration set up; model training, 
-evaluation, and inference sections in development.
+## Detection Classes
+- Hardhat
+- Goggles
+- Vest
