@@ -2,3 +2,8 @@ ultralytics
 opencv-python
 matplotlib
 pyyaml
+numpy
+pandas
+scikit-learn
+Pillow
+jupyter

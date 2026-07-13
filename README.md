@@ -1,4 +1,3 @@
-# project-ppecompliancecheck
 # PPE Compliance Checker
 
 **ITAI 1378 - Computer Vision Midterm Project**
@@ -12,3 +11,7 @@
 A computer vision system that uses YOLO11 object detection to automatically 
 identify whether workers in images are wearing required personal protective 
 equipment (PPE), such as helmets, vests, and gloves.
+
+## Status
+🚧 In progress — dataset loading and exploration set up; model training, 
+evaluation, and inference sections in development.
